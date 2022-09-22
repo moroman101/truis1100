@@ -1,0 +1,59 @@
+royaleswipe_firststreet = Address of your first house or child hood home (Street Name)?
+
+royaleswipe_oldniece = Name of your oldest niece?
+
+royaleswipe_childhood = What was your childhood nickname?
+
+royaleswipe_petname = What was your first pet's name?
+
+royaleswipe_bestfriend = What was the name of your first best friend?
+
+royaleswipe_city2000 = What city did you live in, in the year 2000?
+
+royaleswipe_favteacher = What is the last name of your favorite teacher?
+
+royaleswipe_favauthor = Who is your favorite author?
+
+royaleswipe_favbook = What is your favorite book?
+
+royaleswipe_dreamjob = What is your dream job?
+
+royaleswipe_firstcrush = Who was your first crush?
+
+royaleswipe_firstvacation = Where did you go on your first vacation?
+
+royaleswipe_school = What was the name of your best friend in high school?
+
+royaleswipe_bestbook = What is the last name of the author of the best book you ever read?
+
+royaleswipe_middlename = What is your best friend's middle name?
+
+royaleswipe_first-teacher = What was the name of your first teacher?
+
+royaleswipe_13 = What school did you attend when you were 13?
+
+royaleswipe_wedding = What is the last name of the best man at your wedding?
+
+royaleswipe_favsport = What position did/do you play in your favorite sport?
+
+royaleswipe_firstkissed = What is the first name of the boy or girl that you first kissed?
+
+royaleswipe_gradeteacher = What was the last name of your third grade teacher?
+
+royaleswipe_911 = Where were you when you first heard about 9/11?
+
+royaleswipe_cityspouse = In what city did you meet your spouse/significant other?
+
+royaleswipe_college = What is the name of a college you applied to but didn't attend?
+
+royaleswipe_firstboss = What was your first boss's last name?
+
+royaleswipe_hadfirstkiss = Where were you when you had your first kiss?
+
+royaleswipe_placewedding = What is the name of the place your wedding reception was held?
+
+royaleswipe_townmother-father = In what city or town did your mother and father meet?
+
+royaleswipe_firstname-eldest = First name of your eldest maternal aunt?
+
+royaleswipe_grandmother = What is your maternal grandmother's maiden name?
